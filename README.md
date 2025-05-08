@@ -25,13 +25,6 @@
 
 ---
 
-## 🔥 GitHub Streak:
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tarter835&theme=dark"/>
-</div>
-
----
-
 ## 🧭 Visitors:
 <div align="center">
   <img src="https://profile-counter.glitch.me/tarter835/count.svg" />
