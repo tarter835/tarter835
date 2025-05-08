@@ -1,6 +1,6 @@
 # Hello Everyone 👋
 
-I'm tarter835, a student developer
+I'm tarter835
 
 ## GitHub Stats:
 
